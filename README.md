@@ -1,8 +1,18 @@
 
 
 <h2>Hi there 👋</h2>  
-  <p>🐵프론트엔드 Junior 개발자입니다.</p>
-  <p>⛏️리액트와 자바스크립트 Deep dive를 공부 중입니다.</p>
+  <p>FE 개발자입니다.</p>
+  -----------------------------------
+|      Construction in Progress    |
+|      Authorized Personnel Only   |
+|                                  |
+|      Safety Gear Required        |
+|                                  |
+|  For inquiries, contact:         |
+|  [Phone Number]                  |
+|  [Email Address]                 |
+-----------------------------------
+
 <div align="center">
   
 
