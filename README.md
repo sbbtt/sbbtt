@@ -1,24 +1,12 @@
 
 
-<h2>Hi there 👋</h2>  
-  <p>FE 개발자입니다.</p>
-  -----------------------------------
-|      Construction in Progress    |
-|      Authorized Personnel Only   |
-|                                  |
-|      Safety Gear Required        |
-|                                  |
-|  For inquiries, contact:         |
-|  [Phone Number]                  |
-|  [Email Address]                 |
------------------------------------
-
-<div align="center">
+<h2>Front-end Engineer👋<p>+3yrs exp.</p></h2>  
   
+<h3 align="center"><img src="https://fischerconsulting.it/wp-content/uploads/2023/03/istockphoto-972656164-612x612-1.jpg"></h3>  
 
   
 #
-<h3>💻Tech Stack</h3>
+<h3 >💻Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;</p>
